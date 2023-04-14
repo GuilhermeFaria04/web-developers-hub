@@ -26,6 +26,15 @@ header, section, footer{
     width: 100%;
     max-width: 250px;
 }
+#imagem-perfil{
+    width: 40%;
+    max-width: 600px;
+    text-align: center;
+    align-items: center;
+}
+.centralizar{
+    text-align: center;
+}
 .button{
     background-color: blue;
     color: white;
